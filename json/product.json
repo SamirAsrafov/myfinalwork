@@ -1,0 +1,100 @@
+[
+    {
+        "image" : "../assets/img/product1.jpg",
+            "span" :"Zara",
+            "h5" : "COTTON - LINEN OVERSHIRT",
+            "h4" : "60 $"
+          
+        
+    },
+    {
+        "image" : "../assets/img/product2.jpg",
+            "span" :"Bershka",
+            "h5" : "COTTON - BLACK TROUSERS",
+            "h4" : "84 $"
+           
+    },
+    
+    {
+        
+        "image" : "../assets/img/product4.jpg",
+        "span" :"POLO AS",
+        "h5" : "COLLAR - T-SHIRT ",
+        "h4" : "52 $"
+        
+    },
+    {
+        
+        "image" : "../assets/img/product3.jpg",
+        "span" :"A|X",
+        "h5" : "SPORT - COMF SHOES",
+        "h4" : "132 $"
+        
+    },
+    {
+        
+        "image" : "../assets/img/product5.jpg",
+        "span" :"LC WAIKIKI",
+        "h5" : "STANDART -  SWEATSHIRT",
+        "h4" : "64 $"
+        
+    },
+    {
+        
+        "image" : "../assets/img/product6.jpg",
+        "span" :"DEFACTO",
+        "h5" : "COMFORT - RAİNCOAT",
+        "h4" : "73 $"
+        
+    },
+    {
+        
+        "image" : "../assets/img/product7.jpg",
+        "span" :"Zara",
+        "h5" : "COTTON - DAILY SHORTS",
+        "h4" : "41 $"
+        
+    },
+    {
+        
+        "image" : "../assets/img/product8.jpg",
+        "span" :"Zara",
+        "h5" : "COTTON - GIRLS' CAP",
+        "h4" : "16 $"
+        
+    },
+   
+    {
+        
+        "image" : "../assets/img/product10.webp",
+        "span" :"Toshiba",
+        "h5" : "VACUUM CLEANER",
+        "h4" : "230 $"
+        
+    },
+    {
+        
+        "image" : "../assets/img/prodct9.webp",
+        "span" :"Karaca",
+        "h5" : "ALMINIUM POT",
+        "h4" : "128 $"
+        
+    },
+   
+    {
+        
+        "image" : "../assets/img/product11.webp",
+        "span" :"Venucci",
+        "h5" : "SILK CARPET",
+        "h4" : "135 $"
+        
+    },
+    {
+        
+        "image" : "../assets/img/product12.webp",
+        "span" :"Sinbo",
+        "h5" : "LOUD LAMP",
+        "h4" : "38 $"
+        
+    }
+]
